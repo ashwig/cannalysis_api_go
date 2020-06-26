@@ -7,5 +7,6 @@
         }
     },
     "go.gopath": "/home/ahellwig/go",
+    "go.useLanguageServer": true,
     "cSpell.enabled": false
 }
