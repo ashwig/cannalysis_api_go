@@ -1,0 +1,11 @@
+{
+    "[go]": {
+        "editor.insertSpaces": false,
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        }
+    },
+    "go.gopath": "/home/ahellwig/go",
+    "cSpell.enabled": false
+}
